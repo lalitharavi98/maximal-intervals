@@ -1,0 +1,2 @@
+# maximal-intervals
+greedy algorithm
